@@ -1,0 +1,7 @@
+{
+    "Name": "PMJ BIDS Dataset",
+    "BIDSVersion": "1.2.0",
+    "Authors": [
+        "S. Bédard",
+        "J. Cohen-Adad"]
+}
