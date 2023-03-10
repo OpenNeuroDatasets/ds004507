@@ -1,7 +1,9 @@
 {
-    "Name": "Spinal Cord Head Positions",
+    "Name": "PMJ BIDS Dataset",
     "BIDSVersion": "1.2.0",
     "Authors": [
         "S. Bédard",
-        "J. Cohen-Adad"]
+        "J. Cohen-Adad"
+    ],
+    "License": "CC0"
 }
