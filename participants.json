@@ -14,5 +14,9 @@
     "date_of_scan": {
         "LongName": "Date of scan",
         "Description": "yyyy-mm-dd"
+    },
+    "height": {
+        "LongName": "Participant height",
+        "Description": "cm"
     }
 }
